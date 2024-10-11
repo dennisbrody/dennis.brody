@@ -14,7 +14,7 @@ As a lifelong learner, I hold a double major in **Systems Administration** and *
 - **Security Tools:** Nessus, OpenVAS, Burp Suite, Wireshark, Nmap, Firewall Management, IAM
 - **Forensics & Analysis:** Autopsy, FTK Imager, Network Miner, Zeek, Splunk, Volitality
 - **Frameworks:** MITRE ATT&CK Framework, Cyber Kill Chain
-- **Virtualization:** VMWare, Proxmox
+- **Virtualization:** VMWare, Virtual Box, Proxmox
 - **Active Directory:** Windows Active Directory, Group Policy, User and Group Management
 
 ## Certifications
