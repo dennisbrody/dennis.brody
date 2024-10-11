@@ -47,7 +47,7 @@ As a lifelong learner, I hold a double major in **Systems Administration** and *
 - Delivered exceptional customer service with a 98% satisfaction rate.
 
 ## Education
-- **SANS Technology Institute**: Cybersecurity, Class of 2024
+- **SANS Technology Institute**: Cybersecurity
 - **Greenville Technical College**: Associate in Computer Technology (4.0 GPA, Phi Theta Kappa Honor Society)
 - Certificates in **Cybersecurity** and **Microsoft Network Administration**
 
