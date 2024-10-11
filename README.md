@@ -3,7 +3,7 @@
 **Welcome to my homepage!** I’m Dennis Brody, a dedicated IT student with a strong background in cybersecurity, systems administration, and vulnerability management. Currently a student at the SANS Institute, I am committed to applying my skills to ensure secure and efficient operations in the ever-evolving world of information technology.
 
 ## About Me
-I am a dynamic professional with over a decade of experience as a top-producing Mortgage Loan Officer, now transitioning into IT. Currently, I’m pursuing advanced studies in cybersecurity at the prestigious SANS Institute, where I’m honing my skills in risk management, vulnerability assessments, and IT security. 
+I am a dynamic professional with over a decade of experience as a top-producing Mortgage Loan Officer, now transitioning into IT. Currently, I’m pursuing advanced studies in cybersecurity at the SANS Institute, where I’m honing my skills in risk management, vulnerability assessments, and IT security. 
 
 As a lifelong learner, I hold a double major in **Systems Administration** and **Cybersecurity** and possess a range of certifications that reflect my dedication to keeping up with industry standards. I am passionate about leveraging technology to drive advancements and protect organizations from security threats.
 
@@ -31,7 +31,7 @@ As a lifelong learner, I hold a double major in **Systems Administration** and *
 
 ## Projects
 ### [Home Lab Project](https://github.com/debrody80/projects/blob/main/homelab/ReadMe.md)
-- Built a sophisticated home lab using a Dell R730 server with **Proxmox** and **pfSense** for network segmentation.
+- Built my home lab using a Dell R730 server with **Proxmox** and **pfSense** for network segmentation.
 - Deployed **Kali Linux** and **Nessus** for vulnerability scanning and penetration testing.
 - Created a Windows enterprise environment with **Active Directory** simulations and a vulnerable machine LAN for security testing.
 - Managed web application security practices through **Docker** and **Portainer** hosting **DVWA**, **WebGOAT**, and **BWApp**.
@@ -53,7 +53,7 @@ As a lifelong learner, I hold a double major in **Systems Administration** and *
 
 ## Get in Touch
 - **Email:** debrody80@gmail.com
-- **LinkedIn:** [linkedin.com/in/dennis-brody-78495597](https://www.linkedin.com/in/dennis-brody-78495597/)
+- **LinkedIn:** [linkedin.com/in/dennis-brody](https://www.linkedin.com/in/dennis-brody/)
 - **GitHub:** [github.com/debrody80/projects](https://github.com/debrody80/projects)
 
 Thank you for visiting my page! Feel free to reach out if you’re interested in collaborating or learning more about my work in IT and cybersecurity.
