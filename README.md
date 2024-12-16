@@ -52,8 +52,8 @@ As a lifelong learner, I hold a double major in **Systems Administration** and *
 - Certificates in **Cybersecurity** and **Microsoft Network Administration**
 
 ## Get in Touch
-- **Email:** debrody80@gmail.com
+- **Email:** dennis.brody@outlook.com
 - **LinkedIn:** [linkedin.com/in/dennis-brody](https://www.linkedin.com/in/dennis-brody/)
-- **GitHub:** [github.com/debrody80/projects](https://github.com/debrody80/projects)
+- **GitHub:** [github.com/dennisbrody/projects](https://github.com/dennisbrody)
 
 Thank you for visiting my page! Feel free to reach out if you’re interested in collaborating or learning more about my work in IT and cybersecurity.
