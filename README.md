@@ -18,6 +18,8 @@ As a lifelong learner, I hold a double major in **Systems Administration** and *
 - **Active Directory:** Windows Active Directory, Group Policy, User and Group Management
 
 ## Certifications
+- GIAC GCIH
+- GIAC GSEC
 - GIAC GFACT
 - AWS Solutions Architect Associate
 - CompTIA Security+
